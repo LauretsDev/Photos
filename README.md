@@ -1,2 +1,2 @@
 # Photos
-A CSS project
+A photo page to practice CSS and responsiveness.
